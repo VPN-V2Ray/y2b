@@ -7,7 +7,7 @@ $siteName='天天看视频';
 
 //youtube API V3 KEY:
 
-$key='*******************************************';
+$key='AIzaSyBPLf8NYoQ8gCbht2_vM_DoBOl0pL4_3EE';
 
 
 //其他地方不用改。
